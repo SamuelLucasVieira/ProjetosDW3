@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "exercicio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "projeto1": "ts-node ./src/projeto1",
+    "projeto2": "ts-node ./src/projeto2",
+    "projeto3": "ts-node ./src/projeto3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
